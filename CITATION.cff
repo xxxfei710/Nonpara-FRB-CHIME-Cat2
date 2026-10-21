@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived software release and the associated research paper."
+title: "Nonpara: Nonparametric FRB Energy Functions and Cosmic Event Rates"
+type: software
+authors:
+  - family-names: Dong
+    given-names: Xiaofei
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
+keywords:
+  - fast radio bursts
+  - Lynden-Bell C-minus
+  - Efron-Petrosian
+  - CHIME/FRB Catalog 2
+  - Jupyter Notebook
